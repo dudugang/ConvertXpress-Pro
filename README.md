@@ -1,31 +1,39 @@
-ConvertXpress-Pro
-=================
+## ConvertXpress Pro
 
-A free, simple and lightweight utility used to convert popular video files (.flv, .mkv, .mp4, .avi, .wmv) to their respective opposites. Also supports converting full-length videos to uncompressed GIF.
+A free, simple and lightweight utility used to convert popular video files (.flv, .mkv, .mp4, .avi, .wmv) to their respective opposites. Also supports converting full-length videos to uncompressed GIF. ConvertXpress Pro also utilizes the power of FFMPEG and fine-tuned its default options to produce a significantly smaller output without sacrificing quality.
 
-Licensing
-=================
+## Features
 
-This software is licensed under the MIT Open Source License. You are free to modify and redistribute this software as long as you retain all the credits of the original developer.
+* Converts popular video files (.flv, .mkv, .mp4, .avi, .wmv, etc.) to their counterparts
+* Converts full-length videos to uncompressed GIF
+* Produces a significantly smaller (up to 70% smaller) output without sacrificing quality
+* Small memory footprint
+* Completely free, licensed under the GNU LGPL
+* No ads
 
-    The MIT License (MIT)
-    
-    Copyright (c) 2012-2013 Liam Demafelix
-    
-    Permission is hereby granted, free of charge, to any person obtaining a copy
-     of this software and associated documentation files (the "Software"), to deal
-     in the Software without restriction, including without limitation the rights
-     to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-     copies of the Software, and to permit persons to whom the Software is
-     furnished to do so, subject to the following conditions:
-    
-    The above copyright notice and this permission notice shall be included in
-     all copies or substantial portions of the Software.
-    
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-     FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-     THE SOFTWARE.
+## Changelog
+
+**10/09/2013** - Version 1.17
+* Bug fixes
+* Added installer + installer script (based on Inno)
+* Updated README.md on GitHub
+
+**05/28/2013** - Version 1.10 R3
+* Bug fixes
+
+**04/17/2013** - Version 1.10 R2
+* Updated licensing features
+* Bug fixes
+
+**09/23/2012** - Version 1.10
+* Initial Upload
+
+
+
+## Contributing
+
+Please submit bug reports to the Bug Tracker. This project is not perfect, and vulnerabilitites might be a possibility. The creator of this project is not liable for any possible data loss or damage (please see the licensing terms below).
+
+## Licensing
+
+This project is licensed under the GNU LGPL v3 license. You are free to use, modify and redistribute the code, although support for third-party use and customization will be limited, as this project was originally intended to be used in my other projects. Please see the COPYING file (or refer to http://www.gnu.org/licenses/lgpl.html) for full licensing details.

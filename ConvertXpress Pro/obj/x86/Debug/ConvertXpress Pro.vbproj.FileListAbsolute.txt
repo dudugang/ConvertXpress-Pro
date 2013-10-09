@@ -20,3 +20,7 @@ C:\Users\Liam\Documents\ConvertXpress Pro\ConvertXpress Pro\obj\x86\Debug\Conver
 C:\Users\Liam\Documents\ConvertXpress Pro\ConvertXpress Pro\obj\x86\Debug\ConvertXpress Pro.exe
 C:\Users\Liam\Documents\ConvertXpress Pro\ConvertXpress Pro\obj\x86\Debug\ConvertXpress Pro.xml
 C:\Users\Liam\Documents\ConvertXpress Pro\ConvertXpress Pro\obj\x86\Debug\ConvertXpress Pro.pdb
+C:\Users\Liam\Documents\Visual Studio 2012\Projects\ConvertXpress-Pro\ConvertXpress Pro\bin\Debug\ConvertXpress Pro.exe.config
+C:\Users\Liam\Documents\Visual Studio 2012\Projects\ConvertXpress-Pro\ConvertXpress Pro\obj\x86\Debug\ConvertXpress Pro.exe
+C:\Users\Liam\Documents\Visual Studio 2012\Projects\ConvertXpress-Pro\ConvertXpress Pro\obj\x86\Debug\ConvertXpress Pro.xml
+C:\Users\Liam\Documents\Visual Studio 2012\Projects\ConvertXpress-Pro\ConvertXpress Pro\obj\x86\Debug\ConvertXpress Pro.pdb
